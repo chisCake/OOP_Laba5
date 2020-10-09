@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace OOP_Laba5 {
 	abstract class Technique : Product, IGetInfo {

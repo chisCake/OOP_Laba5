@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OOP_Laba5 {
+﻿namespace OOP_Laba5 {
 	class Scanner : Technique{
 		public (int X, int Y) MaxScanningResolution { get; private set; }
 		public int ColorDepth { get; private set; }

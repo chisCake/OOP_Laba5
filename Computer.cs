@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OOP_Laba5 {
+﻿namespace OOP_Laba5 {
 	class Computer : Technique {
 		public string OS { get; private set; }
 		public string CPU { get; private set; }

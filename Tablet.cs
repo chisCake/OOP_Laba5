@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OOP_Laba5 {
+﻿namespace OOP_Laba5 {
 	sealed class Tablet : Computer {
 		public double DisplaySize { get; private set; }
 		public (int X, int Y) DisplayResolution { get; private set; }

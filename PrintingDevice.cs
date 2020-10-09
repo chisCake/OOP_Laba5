@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OOP_Laba5 {
+﻿namespace OOP_Laba5 {
 	enum PrintingTechnology {
 		Laser,
 		Inkjet,

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace OOP_Laba5 {
+﻿namespace OOP_Laba5 {
 	abstract class Product : IGetInfo {
 		public string Brand { get; private set; }
 		public string Name { get; private set; }
